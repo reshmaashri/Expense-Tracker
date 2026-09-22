@@ -1,0 +1,1018 @@
+{
+  "users": [
+    {
+      "name": "Student Tester",
+      "email": "student.test@example.com",
+      "password_hash": "$2b$12$PPNlTrZsHM396Wr0yOpryeFgnh5Fd89rJbDw6hG.BLOGfj6ZyCgsC",
+      "created_at": "2026-09-14 15:15:10.930664+00:00",
+      "_id": "6aa80f7f1b035ea075c53091"
+    },
+    {
+      "name": "Student Tester",
+      "email": "student_1789398954418@example.com",
+      "password_hash": "$2b$12$/CoKJHtuFHpIIQmszJx9iedQe2QpVgw4WGiLAcZXvqvlDc9Wz30fi",
+      "created_at": "2026-09-14 15:15:54.430094+00:00",
+      "_id": "6aa80faae8325938632bc5c4"
+    },
+    {
+      "name": "Live Student",
+      "email": "live.student@example.com",
+      "password_hash": "$2b$12$ZUJyDG8AntEYf0fbQehxMe9C4UYJhARjsTNVueFtTNJRXKvOnlRue",
+      "created_at": "2026-09-14 15:16:14.764175+00:00",
+      "_id": "6aa80fbe296d784018e936fc"
+    },
+    {
+      "name": "User A",
+      "email": "user_a_1789399153555@example.com",
+      "password_hash": "$2b$12$xYBwxFh3phxdkCxXo6O39O5U5YAB742HWQ0KhEW1ijMQV/rICkb2a",
+      "created_at": "2026-09-14 15:19:13.567091+00:00",
+      "_id": "6aa810710abb59d59f1c6e75"
+    },
+    {
+      "name": "User B",
+      "email": "user_b_1789399153555@example.com",
+      "password_hash": "$2b$12$etdSzDv/MEBP.KEcIMUMi.MXVx9QjGnh4K0BI.w9jU9khRMWdcd.y",
+      "created_at": "2026-09-14 15:19:13.983305+00:00",
+      "_id": "6aa810720abb59d59f1c6e76"
+    },
+    {
+      "name": "User A",
+      "email": "user_a_1789399179573@example.com",
+      "password_hash": "$2b$12$NBWIfpOt3Kj1f7EBtWY/KeWlm1WBrCLVppAq6MfW7DxN8whPdu4da",
+      "created_at": "2026-09-14 15:19:39.588936+00:00",
+      "_id": "6aa8108bba48314e56d019b2"
+    },
+    {
+      "name": "User B",
+      "email": "user_b_1789399179573@example.com",
+      "password_hash": "$2b$12$wFiZM8cEejig1c7Jno8WruynmgWNRZcfkzXLSp1fY16XjjPZkxn4.",
+      "created_at": "2026-09-14 15:19:40.007532+00:00",
+      "_id": "6aa8108cba48314e56d019b3"
+    },
+    {
+      "name": "Student Tester",
+      "email": "student_1789399187989@example.com",
+      "password_hash": "$2b$12$j.kx8CiKMSdV35EexRlcDOcgRWrVRBq.Iz8OkrBeMMF7s9iYuDinG",
+      "created_at": "2026-09-14 15:19:48.002136+00:00",
+      "_id": "6aa810945d45a8cf828b5f87"
+    },
+    {
+      "name": "User A",
+      "email": "user_a_1789399189415@example.com",
+      "password_hash": "$2b$12$P8mXpff0eQ6HF1t.wMNitO4fLtxGKEp9XSLoGanRAVqe3XUb/J.Eu",
+      "created_at": "2026-09-14 15:19:49.427874+00:00",
+      "_id": "6aa8109521854fef06578b97"
+    },
+    {
+      "name": "User B",
+      "email": "user_b_1789399189415@example.com",
+      "password_hash": "$2b$12$URZTv8ecB2V/6OoJokrZOOChd9BA5mHBbUlZ9742wY8su1LoTIzEa",
+      "created_at": "2026-09-14 15:19:49.846726+00:00",
+      "_id": "6aa8109621854fef06578b98"
+    },
+    {
+      "name": "Analytics User X",
+      "email": "analytics_x_1789400799343@example.com",
+      "password_hash": "$2b$12$JMdAcR2dmZoxX.Utq5XkAegd5JO3fG8VKlLqQt78o70DD6UlQZRZi",
+      "created_at": "2026-09-14 15:46:39.354535+00:00",
+      "_id": "6aa816df082eec2101d0e0a7"
+    },
+    {
+      "name": "Analytics User Y",
+      "email": "analytics_y_1789400799343@example.com",
+      "password_hash": "$2b$12$tFLc/L3vwS2p.lHZmB0iP.cYM3SWuuIerlAAItTKCQjBHiya6GtnW",
+      "created_at": "2026-09-14 15:46:39.778458+00:00",
+      "_id": "6aa816df082eec2101d0e0a8"
+    },
+    {
+      "name": "Analytics User Z",
+      "email": "analytics_empty_1789400799343@example.com",
+      "password_hash": "$2b$12$OQoVmGiEX52Z4HuzaXkOhuwiyAhxv7.1N9oJsnYNig1hrNOqvZ2qi",
+      "created_at": "2026-09-14 15:46:40.205040+00:00",
+      "_id": "6aa816e0082eec2101d0e0a9"
+    },
+    {
+      "name": "Student Tester",
+      "email": "student_1789400980135@example.com",
+      "password_hash": "$2b$12$Tbk/xtWfEuR1j27Ddoa3WeRsXklmJUoSCQzUmoeqI1dAGMDndH6X.",
+      "created_at": "2026-09-14 15:49:40.146443+00:00",
+      "_id": "6aa8179478d789c0e8004175"
+    },
+    {
+      "name": "User A",
+      "email": "user_a_1789400981578@example.com",
+      "password_hash": "$2b$12$/S2tp2HpUGTwcDdO7MwT6.3mtjY.QccV3JYxvLyYy5gL8Qbr408vq",
+      "created_at": "2026-09-14 15:49:41.590312+00:00",
+      "_id": "6aa81795ba354cc59cc963cc"
+    },
+    {
+      "name": "User B",
+      "email": "user_b_1789400981578@example.com",
+      "password_hash": "$2b$12$H/zbttKBR6oZeU6vNUENM.Q3DNEAGGWOPXS3fONUw33NC453xGH96",
+      "created_at": "2026-09-14 15:49:42.008660+00:00",
+      "_id": "6aa81796ba354cc59cc963cd"
+    },
+    {
+      "name": "Analytics User X",
+      "email": "analytics_x_1789400983309@example.com",
+      "password_hash": "$2b$12$N1O0GHf/1/yhWEGDHPl5luq/P0wnxqnG3OF/MdMNdzgeXgDh.7gJC",
+      "created_at": "2026-09-14 15:49:43.321519+00:00",
+      "_id": "6aa8179792f777d1d758ee24"
+    },
+    {
+      "name": "Analytics User Y",
+      "email": "analytics_y_1789400983309@example.com",
+      "password_hash": "$2b$12$U/gu58/gBE821gazYKpLQO9nHyZPSu/n9e31yKgmXnATgDGasNwjC",
+      "created_at": "2026-09-14 15:49:43.741124+00:00",
+      "_id": "6aa8179792f777d1d758ee25"
+    },
+    {
+      "name": "Analytics User Z",
+      "email": "analytics_empty_1789400983309@example.com",
+      "password_hash": "$2b$12$QeeMT8B5PNbZJWcsXFHJsuDqE/.6xAj3LOPtj6glZUq.iySZOlQua",
+      "created_at": "2026-09-14 15:49:44.162913+00:00",
+      "_id": "6aa8179892f777d1d758ee26"
+    },
+    {
+      "name": "Stage7 Tester",
+      "email": "stage7_tester@example.com",
+      "password_hash": "$2b$12$zVFBRwRn/miZRDmoXgUBeeY7iX7xulTBhcfXODZNQvu9QdGgPKhR.",
+      "created_at": "2026-09-14 16:47:27.167809+00:00",
+      "_id": "6aa8251f26dcbcc37e370e4b"
+    },
+    {
+      "name": "Analytics Student",
+      "email": "analytics_demo@example.com",
+      "password_hash": "$2b$12$wJdXXjAcezFGS5ZbCUZpieTt5LG68rroxvNxSj0cVtswUBDz6YikC",
+      "created_at": "2026-09-14 17:01:06.325615+00:00",
+      "_id": "6aa8285226dcbcc37e370e4e"
+    },
+    {
+      "name": "Analytics Student 1789405451",
+      "email": "analytics_1789405451@example.com",
+      "password_hash": "$2b$12$QoRL6I6cByUG37F5UDrSWepT0wzfkUBTRPhyiVc5TKdYLn80dcoFS",
+      "created_at": "2026-09-14 17:04:11.284092+00:00",
+      "_id": "6aa8290b26dcbcc37e370e5b"
+    },
+    {
+      "name": "Alex Student 1789406005",
+      "email": "alex_1789406005@college.edu",
+      "password_hash": "$2b$12$EgyZ7K/mTxRUdCMxCVJjdue8NStFnZCgPPwgnd5T6BRUIpdlteW0.",
+      "created_at": "2026-09-14 17:13:25.789572+00:00",
+      "_id": "6aa82b3526dcbcc37e370e62"
+    },
+    {
+      "name": "Bianca Student 1789406005",
+      "email": "bianca_1789406005@college.edu",
+      "password_hash": "$2b$12$MxnFAkn1L8UJWddWcg.Hke6b9xltrWhAaW.TKMzUoER418doP18bS",
+      "created_at": "2026-09-14 17:13:26.298465+00:00",
+      "_id": "6aa82b3626dcbcc37e370e67"
+    },
+    {
+      "name": "Student Tester",
+      "email": "student_1789406545184@example.com",
+      "password_hash": "$2b$12$X3mGalUXQMAbS2uR7IeFBOu2XOHJrsW2AP/bXVhhlIyFhkewejufO",
+      "created_at": "2026-09-14 17:22:25.200725+00:00",
+      "_id": "6aa82d51659cd2186e47eccd"
+    },
+    {
+      "name": "User A",
+      "email": "user_a_1789406578882@example.com",
+      "password_hash": "$2b$12$KmkHYh/v5i5TLJN3Os.9gORK8rspVkCTGxjL1J7fT97x9tZE/I5RS",
+      "created_at": "2026-09-14 17:22:58.893450+00:00",
+      "_id": "6aa82d7346be2330e23a8be2"
+    },
+    {
+      "name": "User B",
+      "email": "user_b_1789406578882@example.com",
+      "password_hash": "$2b$12$xbPOFjL1rbyaoLPhFhkpGurH/aP2pE1U/azsB0JaBaJALwq6aAAi2",
+      "created_at": "2026-09-14 17:22:59.314509+00:00",
+      "_id": "6aa82d7346be2330e23a8be3"
+    },
+    {
+      "name": "Analytics User X",
+      "email": "analytics_x_1789406610992@example.com",
+      "password_hash": "$2b$12$9cgt4Teu.WosHR48FCqrceplwfbfkNNLkwWQA3nFtUvJYKDIJ//bS",
+      "created_at": "2026-09-14 17:23:31.004680+00:00",
+      "_id": "6aa82d9335f0e5093a5c487a"
+    },
+    {
+      "name": "Analytics User Y",
+      "email": "analytics_y_1789406610992@example.com",
+      "password_hash": "$2b$12$iWHgHvIDdzJtvg1mBTBilugOebjsZOhkUCIgNpfpj2jYDKoZH.ws6",
+      "created_at": "2026-09-14 17:23:31.464554+00:00",
+      "_id": "6aa82d9335f0e5093a5c487b"
+    },
+    {
+      "name": "Analytics User Z",
+      "email": "analytics_empty_1789406610992@example.com",
+      "password_hash": "$2b$12$gvehiJLkG6L7czZftFViX.SqN7MF9AEsAhYOB7G4SyrS6CosQvvaK",
+      "created_at": "2026-09-14 17:23:31.889558+00:00",
+      "_id": "6aa82d9435f0e5093a5c487c"
+    },
+    {
+      "name": "Alex Student 1789409255",
+      "email": "alex_1789409255@college.edu",
+      "password_hash": "$2b$12$/JgNCvSkwGr3pjNH8Z0tq.7gtxWBPQgQ1Ew7fn/wfXqlCrtJ4YIbG",
+      "created_at": "2026-09-14 18:07:35.881989+00:00",
+      "_id": "6aa837e826dcbcc37e370e68"
+    },
+    {
+      "name": "Bianca Student 1789409255",
+      "email": "bianca_1789409255@college.edu",
+      "password_hash": "$2b$12$eHeXiMHv32BllzhR9yIeH.IcOYz3bnQR8.pBmzdLlwjvzlB8gRea6",
+      "created_at": "2026-09-14 18:07:36.388602+00:00",
+      "_id": "6aa837e826dcbcc37e370e6d"
+    },
+    {
+      "name": "Student Tester",
+      "email": "student_1789919268173@example.com",
+      "password_hash": "$2b$12$PTYsFL5Madox0PZ8YlfVD.hKSPggQil/IgDRQRn6ZtVO/V/mHY7.q",
+      "created_at": "2026-09-20 15:47:48.196375+00:00",
+      "_id": "6ab000243070e3ed61596ac9"
+    },
+    {
+      "name": "User A",
+      "email": "user_a_1789919274557@example.com",
+      "password_hash": "$2b$12$ss/kgw1Hp9fVQy2Jf6p0aehrejodVQ4/XOj2qHMhsqOyEK8EE6znm",
+      "created_at": "2026-09-20 15:47:54.568940+00:00",
+      "_id": "6ab0002a0701a5f4346821d4"
+    },
+    {
+      "name": "User B",
+      "email": "user_b_1789919274557@example.com",
+      "password_hash": "$2b$12$klVfryq9dVPPpJNdm63HNOSlAEptgRg.Lp2uDPu1.p2SYk8HJixWm",
+      "created_at": "2026-09-20 15:47:54.989682+00:00",
+      "_id": "6ab0002b0701a5f4346821d5"
+    },
+    {
+      "name": "reshmaa",
+      "email": "reshmaashrie@gmail.com",
+      "password_hash": "$2b$12$ppFTEAbMA8wUiI3wA1CKK.oIheJLzMGKggvLqq8CYyKfZs6bXjcMu",
+      "created_at": "2026-09-20 15:51:06.148482+00:00",
+      "_id": "6ab000ea369e9acac3ce4939"
+    }
+  ],
+  "expenses": [
+    {
+      "user_id": "6aa810710abb59d59f1c6e75",
+      "amount": 250.5,
+      "category": "Food",
+      "description": "Lunch at college canteen",
+      "date": "2026-09-14",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 15:19:14.423839+00:00",
+      "_id": "6aa810720abb59d59f1c6e77"
+    },
+    {
+      "user_id": "6aa810710abb59d59f1c6e75",
+      "amount": 120.0,
+      "category": "Transport",
+      "description": "Metro card recharge",
+      "date": "2026-09-13",
+      "payment_method": "Debit Card",
+      "created_at": "2026-09-14 15:19:14.440884+00:00",
+      "_id": "6aa810720abb59d59f1c6e78"
+    },
+    {
+      "user_id": "6aa810710abb59d59f1c6e75",
+      "amount": 1500.0,
+      "category": "Education",
+      "description": "Textbooks and engineering stationary",
+      "date": "2026-09-10",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 15:19:14.465443+00:00",
+      "_id": "6aa810720abb59d59f1c6e79"
+    },
+    {
+      "user_id": "6aa810710abb59d59f1c6e75",
+      "amount": 890.0,
+      "category": "Shopping",
+      "description": "New backpack",
+      "date": "2026-08-25",
+      "payment_method": "Cash",
+      "created_at": "2026-09-14 15:19:14.474640+00:00",
+      "_id": "6aa810720abb59d59f1c6e7a"
+    },
+    {
+      "user_id": "6aa810720abb59d59f1c6e76",
+      "amount": 999.0,
+      "category": "Bills",
+      "description": "User B mobile bill",
+      "date": "2026-09-14",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 15:19:14.494082+00:00",
+      "_id": "6aa810720abb59d59f1c6e7b"
+    },
+    {
+      "user_id": "6aa8108bba48314e56d019b2",
+      "amount": 120.0,
+      "category": "Transport",
+      "description": "Metro card recharge",
+      "date": "2026-09-13",
+      "payment_method": "Debit Card",
+      "created_at": "2026-09-14 15:19:40.463256+00:00",
+      "_id": "6aa8108cba48314e56d019b5"
+    },
+    {
+      "user_id": "6aa8108bba48314e56d019b2",
+      "amount": 1500.0,
+      "category": "Education",
+      "description": "Textbooks and engineering stationary",
+      "date": "2026-09-10",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 15:19:40.472400+00:00",
+      "_id": "6aa8108cba48314e56d019b6"
+    },
+    {
+      "user_id": "6aa8108bba48314e56d019b2",
+      "amount": 890.0,
+      "category": "Shopping",
+      "description": "New backpack",
+      "date": "2026-08-25",
+      "payment_method": "Cash",
+      "created_at": "2026-09-14 15:19:40.482172+00:00",
+      "_id": "6aa8108cba48314e56d019b7"
+    },
+    {
+      "user_id": "6aa8108cba48314e56d019b3",
+      "amount": 999.0,
+      "category": "Bills",
+      "description": "User B mobile bill",
+      "date": "2026-09-14",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 15:19:40.499363+00:00",
+      "_id": "6aa8108cba48314e56d019b8"
+    },
+    {
+      "user_id": "6aa8109521854fef06578b97",
+      "amount": 120.0,
+      "category": "Transport",
+      "description": "Metro card recharge",
+      "date": "2026-09-13",
+      "payment_method": "Debit Card",
+      "created_at": "2026-09-14 15:19:50.305325+00:00",
+      "_id": "6aa8109621854fef06578b9a"
+    },
+    {
+      "user_id": "6aa8109521854fef06578b97",
+      "amount": 1500.0,
+      "category": "Education",
+      "description": "Textbooks and engineering stationary",
+      "date": "2026-09-10",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 15:19:50.320846+00:00",
+      "_id": "6aa8109621854fef06578b9b"
+    },
+    {
+      "user_id": "6aa8109521854fef06578b97",
+      "amount": 890.0,
+      "category": "Shopping",
+      "description": "New backpack",
+      "date": "2026-08-25",
+      "payment_method": "Cash",
+      "created_at": "2026-09-14 15:19:50.329796+00:00",
+      "_id": "6aa8109621854fef06578b9c"
+    },
+    {
+      "user_id": "6aa8109621854fef06578b98",
+      "amount": 999.0,
+      "category": "Bills",
+      "description": "User B mobile bill",
+      "date": "2026-09-14",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 15:19:50.349425+00:00",
+      "_id": "6aa8109621854fef06578b9d"
+    },
+    {
+      "user_id": "6aa816df082eec2101d0e0a7",
+      "amount": 300.0,
+      "category": "Food",
+      "description": "Breakfast with team",
+      "date": "2026-09-14",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 15:46:40.648004+00:00",
+      "_id": "6aa816e0082eec2101d0e0aa"
+    },
+    {
+      "user_id": "6aa816df082eec2101d0e0a7",
+      "amount": 150.0,
+      "category": "Transport",
+      "description": "Uber cab to college",
+      "date": "2026-09-14",
+      "payment_method": "Cash",
+      "created_at": "2026-09-14 15:46:40.657869+00:00",
+      "_id": "6aa816e0082eec2101d0e0ab"
+    },
+    {
+      "user_id": "6aa816df082eec2101d0e0a7",
+      "amount": 1200.0,
+      "category": "Education",
+      "description": "Cloud course certification",
+      "date": "2026-09-05",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 15:46:40.666850+00:00",
+      "_id": "6aa816e0082eec2101d0e0ac"
+    },
+    {
+      "user_id": "6aa816df082eec2101d0e0a7",
+      "amount": 650.0,
+      "category": "Bills",
+      "description": "Electricity bill",
+      "date": "2026-09-02",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 15:46:40.685492+00:00",
+      "_id": "6aa816e0082eec2101d0e0ad"
+    },
+    {
+      "user_id": "6aa816df082eec2101d0e0a7",
+      "amount": 1800.0,
+      "category": "Shopping",
+      "description": "Sneakers",
+      "date": "2026-08-20",
+      "payment_method": "Debit Card",
+      "created_at": "2026-09-14 15:46:40.694942+00:00",
+      "_id": "6aa816e0082eec2101d0e0ae"
+    },
+    {
+      "user_id": "6aa816df082eec2101d0e0a7",
+      "amount": 400.0,
+      "category": "Food",
+      "description": "Dinner outing",
+      "date": "2026-08-10",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 15:46:40.703618+00:00",
+      "_id": "6aa816e0082eec2101d0e0af"
+    },
+    {
+      "user_id": "6aa816df082eec2101d0e0a7",
+      "amount": 750.0,
+      "category": "Health",
+      "description": "Medical checkup and vitamins",
+      "date": "2026-07-15",
+      "payment_method": "Bank Transfer",
+      "created_at": "2026-09-14 15:46:40.713222+00:00",
+      "_id": "6aa816e0082eec2101d0e0b0"
+    },
+    {
+      "user_id": "6aa816df082eec2101d0e0a8",
+      "amount": 5000.0,
+      "category": "Entertainment",
+      "description": "VIP Concert Ticket",
+      "date": "2026-09-14",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 15:46:40.722451+00:00",
+      "_id": "6aa816e0082eec2101d0e0b1"
+    },
+    {
+      "user_id": "6aa81795ba354cc59cc963cc",
+      "amount": 120.0,
+      "category": "Transport",
+      "description": "Metro card recharge",
+      "date": "2026-09-13",
+      "payment_method": "Debit Card",
+      "created_at": "2026-09-14 15:49:42.457908+00:00",
+      "_id": "6aa81796ba354cc59cc963cf"
+    },
+    {
+      "user_id": "6aa81795ba354cc59cc963cc",
+      "amount": 1500.0,
+      "category": "Education",
+      "description": "Textbooks and engineering stationary",
+      "date": "2026-09-10",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 15:49:42.468681+00:00",
+      "_id": "6aa81796ba354cc59cc963d0"
+    },
+    {
+      "user_id": "6aa81795ba354cc59cc963cc",
+      "amount": 890.0,
+      "category": "Shopping",
+      "description": "New backpack",
+      "date": "2026-08-25",
+      "payment_method": "Cash",
+      "created_at": "2026-09-14 15:49:42.481830+00:00",
+      "_id": "6aa81796ba354cc59cc963d1"
+    },
+    {
+      "user_id": "6aa81796ba354cc59cc963cd",
+      "amount": 999.0,
+      "category": "Bills",
+      "description": "User B mobile bill",
+      "date": "2026-09-14",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 15:49:42.496580+00:00",
+      "_id": "6aa81796ba354cc59cc963d2"
+    },
+    {
+      "user_id": "6aa8179792f777d1d758ee24",
+      "amount": 300.0,
+      "category": "Food",
+      "description": "Breakfast with team",
+      "date": "2026-09-14",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 15:49:44.593866+00:00",
+      "_id": "6aa8179892f777d1d758ee27"
+    },
+    {
+      "user_id": "6aa8179792f777d1d758ee24",
+      "amount": 150.0,
+      "category": "Transport",
+      "description": "Uber cab to college",
+      "date": "2026-09-14",
+      "payment_method": "Cash",
+      "created_at": "2026-09-14 15:49:44.610193+00:00",
+      "_id": "6aa8179892f777d1d758ee28"
+    },
+    {
+      "user_id": "6aa8179792f777d1d758ee24",
+      "amount": 1200.0,
+      "category": "Education",
+      "description": "Cloud course certification",
+      "date": "2026-09-05",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 15:49:44.626414+00:00",
+      "_id": "6aa8179892f777d1d758ee29"
+    },
+    {
+      "user_id": "6aa8179792f777d1d758ee24",
+      "amount": 650.0,
+      "category": "Bills",
+      "description": "Electricity bill",
+      "date": "2026-09-02",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 15:49:44.639383+00:00",
+      "_id": "6aa8179892f777d1d758ee2a"
+    },
+    {
+      "user_id": "6aa8179792f777d1d758ee24",
+      "amount": 1800.0,
+      "category": "Shopping",
+      "description": "Sneakers",
+      "date": "2026-08-20",
+      "payment_method": "Debit Card",
+      "created_at": "2026-09-14 15:49:44.647508+00:00",
+      "_id": "6aa8179892f777d1d758ee2b"
+    },
+    {
+      "user_id": "6aa8179792f777d1d758ee24",
+      "amount": 400.0,
+      "category": "Food",
+      "description": "Dinner outing",
+      "date": "2026-08-10",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 15:49:44.658078+00:00",
+      "_id": "6aa8179892f777d1d758ee2c"
+    },
+    {
+      "user_id": "6aa8179792f777d1d758ee24",
+      "amount": 750.0,
+      "category": "Health",
+      "description": "Medical checkup and vitamins",
+      "date": "2026-07-15",
+      "payment_method": "Bank Transfer",
+      "created_at": "2026-09-14 15:49:44.666730+00:00",
+      "_id": "6aa8179892f777d1d758ee2d"
+    },
+    {
+      "user_id": "6aa8179792f777d1d758ee25",
+      "amount": 5000.0,
+      "category": "Entertainment",
+      "description": "VIP Concert Ticket",
+      "date": "2026-09-14",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 15:49:44.682893+00:00",
+      "_id": "6aa8179892f777d1d758ee2e"
+    },
+    {
+      "user_id": "6aa8251f26dcbcc37e370e4b",
+      "amount": 1200.0,
+      "category": "Education",
+      "description": "Cloud Computing Textbook",
+      "date": "2026-09-14",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 16:47:27.600724+00:00",
+      "_id": "6aa8251f26dcbcc37e370e4d"
+    },
+    {
+      "user_id": "6aa8285226dcbcc37e370e4e",
+      "amount": 450.0,
+      "category": "Food",
+      "description": "Hostel Mess & Snacks",
+      "date": "2026-08-15",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 17:01:06.735614+00:00",
+      "_id": "6aa8285226dcbcc37e370e4f"
+    },
+    {
+      "user_id": "6aa8285226dcbcc37e370e4e",
+      "amount": 1800.0,
+      "category": "Education",
+      "description": "Operating Systems Book & Lab Kit",
+      "date": "2026-08-20",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 17:01:06.744089+00:00",
+      "_id": "6aa8285226dcbcc37e370e50"
+    },
+    {
+      "user_id": "6aa8285226dcbcc37e370e4e",
+      "amount": 600.0,
+      "category": "Transport",
+      "description": "Monthly Metro Smartcard",
+      "date": "2026-09-01",
+      "payment_method": "Debit Card",
+      "created_at": "2026-09-14 17:01:06.755413+00:00",
+      "_id": "6aa8285226dcbcc37e370e51"
+    },
+    {
+      "user_id": "6aa8285226dcbcc37e370e4e",
+      "amount": 2500.0,
+      "category": "Bills",
+      "description": "Semester High-Speed Broadband",
+      "date": "2026-09-05",
+      "payment_method": "Bank Transfer",
+      "created_at": "2026-09-14 17:01:06.764543+00:00",
+      "_id": "6aa8285226dcbcc37e370e52"
+    },
+    {
+      "user_id": "6aa8285226dcbcc37e370e4e",
+      "amount": 350.0,
+      "category": "Entertainment",
+      "description": "Movie & Popcorn with friends",
+      "date": "2026-09-10",
+      "payment_method": "Cash",
+      "created_at": "2026-09-14 17:01:06.773260+00:00",
+      "_id": "6aa8285226dcbcc37e370e53"
+    },
+    {
+      "user_id": "6aa8285226dcbcc37e370e4e",
+      "amount": 1200.0,
+      "category": "Food",
+      "description": "Group Project Dinner",
+      "date": "2026-09-14",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 17:01:06.781164+00:00",
+      "_id": "6aa8285226dcbcc37e370e54"
+    },
+    {
+      "user_id": "6aa8285226dcbcc37e370e4e",
+      "amount": 450.0,
+      "category": "Food",
+      "description": "Hostel Mess & Snacks",
+      "date": "2026-08-15",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 17:02:35.522037+00:00",
+      "_id": "6aa828ab26dcbcc37e370e55"
+    },
+    {
+      "user_id": "6aa8285226dcbcc37e370e4e",
+      "amount": 1800.0,
+      "category": "Education",
+      "description": "Operating Systems Book & Lab Kit",
+      "date": "2026-08-20",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 17:02:35.529912+00:00",
+      "_id": "6aa828ab26dcbcc37e370e56"
+    },
+    {
+      "user_id": "6aa8285226dcbcc37e370e4e",
+      "amount": 600.0,
+      "category": "Transport",
+      "description": "Monthly Metro Smartcard",
+      "date": "2026-09-01",
+      "payment_method": "Debit Card",
+      "created_at": "2026-09-14 17:02:35.538232+00:00",
+      "_id": "6aa828ab26dcbcc37e370e57"
+    },
+    {
+      "user_id": "6aa8285226dcbcc37e370e4e",
+      "amount": 2500.0,
+      "category": "Bills",
+      "description": "Semester High-Speed Broadband",
+      "date": "2026-09-05",
+      "payment_method": "Bank Transfer",
+      "created_at": "2026-09-14 17:02:35.546953+00:00",
+      "_id": "6aa828ab26dcbcc37e370e58"
+    },
+    {
+      "user_id": "6aa8285226dcbcc37e370e4e",
+      "amount": 350.0,
+      "category": "Entertainment",
+      "description": "Movie & Popcorn with friends",
+      "date": "2026-09-10",
+      "payment_method": "Cash",
+      "created_at": "2026-09-14 17:02:35.554689+00:00",
+      "_id": "6aa828ab26dcbcc37e370e59"
+    },
+    {
+      "user_id": "6aa8285226dcbcc37e370e4e",
+      "amount": 1200.0,
+      "category": "Food",
+      "description": "Group Project Dinner",
+      "date": "2026-09-14",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 17:02:35.563164+00:00",
+      "_id": "6aa828ab26dcbcc37e370e5a"
+    },
+    {
+      "user_id": "6aa8290b26dcbcc37e370e5b",
+      "amount": 450.0,
+      "category": "Food",
+      "description": "Hostel Mess & Snacks",
+      "date": "2026-08-15",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 17:04:11.695903+00:00",
+      "_id": "6aa8290b26dcbcc37e370e5c"
+    },
+    {
+      "user_id": "6aa8290b26dcbcc37e370e5b",
+      "amount": 1800.0,
+      "category": "Education",
+      "description": "Operating Systems Book & Lab Kit",
+      "date": "2026-08-20",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 17:04:11.705029+00:00",
+      "_id": "6aa8290b26dcbcc37e370e5d"
+    },
+    {
+      "user_id": "6aa8290b26dcbcc37e370e5b",
+      "amount": 600.0,
+      "category": "Transport",
+      "description": "Monthly Metro Smartcard",
+      "date": "2026-09-01",
+      "payment_method": "Debit Card",
+      "created_at": "2026-09-14 17:04:11.714323+00:00",
+      "_id": "6aa8290b26dcbcc37e370e5e"
+    },
+    {
+      "user_id": "6aa8290b26dcbcc37e370e5b",
+      "amount": 2500.0,
+      "category": "Bills",
+      "description": "Semester High-Speed Broadband",
+      "date": "2026-09-05",
+      "payment_method": "Bank Transfer",
+      "created_at": "2026-09-14 17:04:11.722421+00:00",
+      "_id": "6aa8290b26dcbcc37e370e5f"
+    },
+    {
+      "user_id": "6aa8290b26dcbcc37e370e5b",
+      "amount": 350.0,
+      "category": "Entertainment",
+      "description": "Movie & Popcorn with friends",
+      "date": "2026-09-10",
+      "payment_method": "Cash",
+      "created_at": "2026-09-14 17:04:11.732304+00:00",
+      "_id": "6aa8290b26dcbcc37e370e60"
+    },
+    {
+      "user_id": "6aa8290b26dcbcc37e370e5b",
+      "amount": 1200.0,
+      "category": "Food",
+      "description": "Group Project Dinner",
+      "date": "2026-09-14",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 17:04:11.740365+00:00",
+      "_id": "6aa8290b26dcbcc37e370e61"
+    },
+    {
+      "user_id": "6aa82b3526dcbcc37e370e62",
+      "amount": 220.0,
+      "category": "Food",
+      "description": "Campus Cafeteria Deluxe Meal",
+      "date": "2026-09-12",
+      "payment_method": "Cash",
+      "created_at": "2026-09-14 17:13:26.221069+00:00",
+      "_id": "6aa82b3626dcbcc37e370e63"
+    },
+    {
+      "user_id": "6aa82b3526dcbcc37e370e62",
+      "amount": 1500.0,
+      "category": "Education",
+      "description": "Algorithms Reference Book",
+      "date": "2026-09-14",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 17:13:26.239123+00:00",
+      "_id": "6aa82b3626dcbcc37e370e65"
+    },
+    {
+      "user_id": "6aa82b3526dcbcc37e370e62",
+      "amount": 950.0,
+      "category": "Bills",
+      "description": "High-Speed Internet Plan",
+      "date": "2026-09-14",
+      "payment_method": "Bank Transfer",
+      "created_at": "2026-09-14 17:13:26.247958+00:00",
+      "_id": "6aa82b3626dcbcc37e370e66"
+    },
+    {
+      "user_id": "6aa82d7346be2330e23a8be2",
+      "amount": 120.0,
+      "category": "Transport",
+      "description": "Metro card recharge",
+      "date": "2026-09-13",
+      "payment_method": "Debit Card",
+      "created_at": "2026-09-14 17:22:59.793724+00:00",
+      "_id": "6aa82d7346be2330e23a8be5"
+    },
+    {
+      "user_id": "6aa82d7346be2330e23a8be2",
+      "amount": 1500.0,
+      "category": "Education",
+      "description": "Textbooks and engineering stationary",
+      "date": "2026-09-10",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 17:22:59.812867+00:00",
+      "_id": "6aa82d7346be2330e23a8be6"
+    },
+    {
+      "user_id": "6aa82d7346be2330e23a8be2",
+      "amount": 890.0,
+      "category": "Shopping",
+      "description": "New backpack",
+      "date": "2026-08-25",
+      "payment_method": "Cash",
+      "created_at": "2026-09-14 17:22:59.822874+00:00",
+      "_id": "6aa82d7346be2330e23a8be7"
+    },
+    {
+      "user_id": "6aa82d7346be2330e23a8be3",
+      "amount": 999.0,
+      "category": "Bills",
+      "description": "User B mobile bill",
+      "date": "2026-09-14",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 17:22:59.843670+00:00",
+      "_id": "6aa82d7346be2330e23a8be8"
+    },
+    {
+      "user_id": "6aa82d9335f0e5093a5c487a",
+      "amount": 300.0,
+      "category": "Food",
+      "description": "Breakfast with team",
+      "date": "2026-09-14",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 17:23:32.312813+00:00",
+      "_id": "6aa82d9435f0e5093a5c487d"
+    },
+    {
+      "user_id": "6aa82d9335f0e5093a5c487a",
+      "amount": 150.0,
+      "category": "Transport",
+      "description": "Uber cab to college",
+      "date": "2026-09-14",
+      "payment_method": "Cash",
+      "created_at": "2026-09-14 17:23:32.334805+00:00",
+      "_id": "6aa82d9435f0e5093a5c487e"
+    },
+    {
+      "user_id": "6aa82d9335f0e5093a5c487a",
+      "amount": 1200.0,
+      "category": "Education",
+      "description": "Cloud course certification",
+      "date": "2026-09-05",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 17:23:32.344400+00:00",
+      "_id": "6aa82d9435f0e5093a5c487f"
+    },
+    {
+      "user_id": "6aa82d9335f0e5093a5c487a",
+      "amount": 650.0,
+      "category": "Bills",
+      "description": "Electricity bill",
+      "date": "2026-09-02",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 17:23:32.354586+00:00",
+      "_id": "6aa82d9435f0e5093a5c4880"
+    },
+    {
+      "user_id": "6aa82d9335f0e5093a5c487a",
+      "amount": 1800.0,
+      "category": "Shopping",
+      "description": "Sneakers",
+      "date": "2026-08-20",
+      "payment_method": "Debit Card",
+      "created_at": "2026-09-14 17:23:32.364192+00:00",
+      "_id": "6aa82d9435f0e5093a5c4881"
+    },
+    {
+      "user_id": "6aa82d9335f0e5093a5c487a",
+      "amount": 400.0,
+      "category": "Food",
+      "description": "Dinner outing",
+      "date": "2026-08-10",
+      "payment_method": "UPI",
+      "created_at": "2026-09-14 17:23:32.373489+00:00",
+      "_id": "6aa82d9435f0e5093a5c4882"
+    },
+    {
+      "user_id": "6aa82d9335f0e5093a5c487a",
+      "amount": 750.0,
+      "category": "Health",
+      "description": "Medical checkup and vitamins",
+      "date": "2026-07-15",
+      "payment_method": "Bank Transfer",
+      "created_at": "2026-09-14 17:23:32.383851+00:00",
+      "_id": "6aa82d9435f0e5093a5c4883"
+    },
+    {
+      "user_id": "6aa82d9335f0e5093a5c487b",
+      "amount": 5000.0,
+      "category": "Entertainment",
+      "description": "VIP Concert Ticket",
+      "date": "2026-09-14",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 17:23:32.412897+00:00",
+      "_id": "6aa82d9435f0e5093a5c4884"
+    },
+    {
+      "user_id": "6aa837e826dcbcc37e370e68",
+      "amount": 220.0,
+      "category": "Food",
+      "description": "Campus Cafeteria Deluxe Meal",
+      "date": "2026-09-12",
+      "payment_method": "Cash",
+      "created_at": "2026-09-14 18:07:36.305839+00:00",
+      "_id": "6aa837e826dcbcc37e370e69"
+    },
+    {
+      "user_id": "6aa837e826dcbcc37e370e68",
+      "amount": 1500.0,
+      "category": "Education",
+      "description": "Algorithms Reference Book",
+      "date": "2026-09-14",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-14 18:07:36.325808+00:00",
+      "_id": "6aa837e826dcbcc37e370e6b"
+    },
+    {
+      "user_id": "6aa837e826dcbcc37e370e68",
+      "amount": 950.0,
+      "category": "Bills",
+      "description": "High-Speed Internet Plan",
+      "date": "2026-09-14",
+      "payment_method": "Bank Transfer",
+      "created_at": "2026-09-14 18:07:36.334780+00:00",
+      "_id": "6aa837e826dcbcc37e370e6c"
+    },
+    {
+      "user_id": "6ab0002a0701a5f4346821d4",
+      "amount": 120.0,
+      "category": "Transport",
+      "description": "Metro card recharge",
+      "date": "2026-09-13",
+      "payment_method": "Debit Card",
+      "created_at": "2026-09-20 15:47:55.445707+00:00",
+      "_id": "6ab0002b0701a5f4346821d7"
+    },
+    {
+      "user_id": "6ab0002a0701a5f4346821d4",
+      "amount": 1500.0,
+      "category": "Education",
+      "description": "Textbooks and engineering stationary",
+      "date": "2026-09-10",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-20 15:47:55.473420+00:00",
+      "_id": "6ab0002b0701a5f4346821d8"
+    },
+    {
+      "user_id": "6ab0002a0701a5f4346821d4",
+      "amount": 890.0,
+      "category": "Shopping",
+      "description": "New backpack",
+      "date": "2026-08-25",
+      "payment_method": "Cash",
+      "created_at": "2026-09-20 15:47:55.483234+00:00",
+      "_id": "6ab0002b0701a5f4346821d9"
+    },
+    {
+      "user_id": "6ab0002b0701a5f4346821d5",
+      "amount": 999.0,
+      "category": "Bills",
+      "description": "User B mobile bill",
+      "date": "2026-09-14",
+      "payment_method": "UPI",
+      "created_at": "2026-09-20 15:47:55.493523+00:00",
+      "_id": "6ab0002b0701a5f4346821da"
+    },
+    {
+      "user_id": "6ab000ea369e9acac3ce4939",
+      "amount": 7000.0,
+      "category": "Transport",
+      "description": "pertrol",
+      "date": "2026-09-20",
+      "payment_method": "Cash",
+      "created_at": "2026-09-20 15:51:34.772614+00:00",
+      "_id": "6ab00106369e9acac3ce493a"
+    },
+    {
+      "user_id": "6ab000ea369e9acac3ce4939",
+      "amount": 100000.0,
+      "category": "Education",
+      "description": "daughter clg fees",
+      "date": "2026-09-20",
+      "payment_method": "Bank Transfer",
+      "created_at": "2026-09-20 15:52:10.361508+00:00",
+      "_id": "6ab0012a369e9acac3ce493b"
+    }
+  ]
+}
